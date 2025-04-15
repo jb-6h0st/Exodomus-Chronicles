@@ -7,7 +7,7 @@
 
 ## 📖 About
 
-**Exodomus** is a storytelling game set in a dystopian city where memories were erased to control the people. Now, memory fragments stored as NFTs are resurfacing, and it's your role to collect, uncover, and restore them one episode at a time.
+**Lumina Perdida** is a storytelling game set in a dystopian city where memories were erased to control the people. Now, memory fragments stored as NFTs are resurfacing, and it's your role to collect, uncover, and restore them one episode at a time.
 
 Players evolve through soulbound roles, solve metadata-based puzzles, and unlock interactive storylines all powered by the Solana blockchain.
 
@@ -35,7 +35,7 @@ Players evolve through soulbound roles, solve metadata-based puzzles, and unlock
 - **NFT System:** Mint → Quest → Burn → Evolve  
 - **Soulbound Roles:** On-chain progression identity  
 - **Frontend:** Next.js (TBC)  
-- **Agent Layer:** GPT-powered NPC-style guide bot
+- **Agent Layer:** AI-powered NPC-style guide bot
 
 ---
 
