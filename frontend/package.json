@@ -7,9 +7,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@solana/wallet-adapter-react": "^0.15.23",
-    "@solana/wallet-adapter-wallets": "^0.15.23",
-    "@solana/wallet-adapter-react-ui": "^0.15.23",
+    "@solana/wallet-adapter-react": "^0.15.19",
+    "@solana/wallet-adapter-wallets": "^0.15.19",
+    "@solana/wallet-adapter-react-ui": "^0.9.16",
     "@solana/web3.js": "^1.89.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
