@@ -32,5 +32,3 @@ This project merges cyberpunk storytelling, Web3 technology, and collective owne
 - Story progression system
 - Leaderboard for top memory restorers
 - Minimal, cinematic UI/UX
-
-## 📁 Folder Structure
