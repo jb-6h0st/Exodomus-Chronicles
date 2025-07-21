@@ -1,34 +1,56 @@
-# Exodomus Chronicles: Lumina Perdida
+# Exodomus Chronicles: Lumina Perdida  
+**An On-Chain Loreverse Powered by Zora & Collective Memory**
 
-An experimental Web3 interactive storytelling experience, where memories are NFTs, and the community rebuilds a forgotten cyberpunk city.
+---
 
-## ✨ Project Overview
-Exodomus Chronicles: Lumina Perdida is more than a story; it's a movement.
+### 🌌 Overview  
+**Exodomus Chronicles** is a decentralized, interactive storytelling experiment set in a fragmented cyberpunk city—**Lumina Perdida**—where citizens’ memories were stolen and encoded as NFTs. This project fuses emotional worldbuilding, NFT mechanics, and Web3 community to let players recover their identity and reshape the future.
 
-Set in a future where authoritarian control has erased the very memories that made people human, Lumina Perdida invites the community to rebuild a forgotten city through collective memory and decentralized action.
+By blending **Zora’s minting tools**, **Mirror’s publishing**, and a custom **onboarding system**, users become memory-reclaimers—choosing a side in a centuries-old war between **truth and control**.
 
-In a world devastated by centralization and manipulation, only the decentralized spirit remains unbroken.
-Each NFT minted in Exodomus Chronicles is not just a collectible, it's a lost memory, a fragment of someone's life, a cry for freedom.
-By holding, connecting, and restoring these memories, players reclaim what was stolen: their stories, their emotions, and their right to remember.
+---
 
-Exodomus Chronicles stands as a powerful advocate for decentralization.
-Through on-chain storytelling and community-driven narrative building, it challenges the idea that power should ever be centralized again.
+### 🔍 MVP Purpose  
+The MVP serves as a **narrative onboarding layer** and a minimal but functional **Web3 storytelling portal**, built to test our mechanics and grow our early community.
 
-This project merges cyberpunk storytelling, Web3 technology, and collective ownership to create a living, evolving city, one memory at a time.
+Key Features:
+- 🧠 **Onboarding Quiz (15 Qs):** Assigns users to a faction and generates a custom **Memory Tag** that defines their starting rank and lore alignment.
+- 🧩 **Memory NFT Mechanics:** Each mint reveals a **fragmented story**—memories that can be **combined, burned, and reconstructed** to unlock deeper lore.
+- 🌀 **Faction System:** Choose between **Los Recordantes** (the resistance trying to restore truth) and **El Gran Dolor** (the authoritarian regime that erased the past).
+- 🖼️ **Glitchy Alebrije & Lotería Aesthetics:** Every memory is embodied as a haunting artifact of emotion and lost identity.
+- 🧭 **Minimal UI with Chakra:** The MVP uses Chakra UI to offer clean access to lore, memory minting, and faction onboarding, without the need for Tailwind.
 
-🌌 In Lumina Perdida, the past is fragmented, but the future belongs to those who remember.
+---
 
-## 🛠️ Tech Stack
-- Next.js / React
-- Tailwind CSS
-- Solidity / Metaplex (Solana)
-- IPFS / Arweave for storage
-- Wallet Connect Integration
-- Story NFTs (Dynamic metadata)
+### 🧱 Tech Stack  
+- **Frontend:** React + Chakra UI  
+- **On-chain NFTs:** Zora Protocol  
+- **Publishing/Content:** Mirror  
+- **Community:** Telegram, Discord, and X  
+- **Host:** GitHub Pages (or Netlify in future iterations)
 
-## 📜 Features
-- Mint memory NFTs
-- Puzzle-piece NFT mechanics
-- Story progression system
-- Leaderboard for top memory restorers
-- Minimal, cinematic UI/UX
+---
+
+### 🎭 Story Highlights  
+- **Setting:** Lumina Perdida, a broken city built on forgotten dreams, rich in Latinx culture, cyberpunk energy, and digital ruins.
+- **Lore Catalyst:** Memories are discovered via a **lost hard wallet** by **6h0st**, a forgotten resistance leader.
+- **Artifacts:** Glowing spirits, glitchy memory cards, and emotional visions triggered through NFT possession.
+- **Gameplay Loop:** Discover → Collect → Connect → Burn → Reveal truth.
+
+---
+
+### 🧠 Design Philosophy  
+> Simple mechanics. Deep lore. Emotional tech.
+
+Every choice, memory, and mint is designed to pull users deeper into a **living narrative**—a collective attempt to reclaim what was lost using the power of **on-chain memory**.
+
+---
+
+### 🚀 Vision  
+This MVP is just **Episode Zero** of a broader **on-chain transmedia universe**, where memory becomes governance, puzzles drive collaboration, and every participant becomes part of the story.
+
+Whether you're a dev, creative, writer, or just curious, Exodomus is a world you don't just visit—you **unlock**.
+
+> _"Memory is the seed. You are the soil. Let’s rebuild the truth—together."_  
+— **6h0st**
+"""
